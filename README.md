@@ -14,19 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-ABOUT ME
+ABOUT ME:
  🌟 Hi there, I'm Sivani Batchu!I'm passionate about learning and sharing knowledge in the exciting world of coding and technology.
  🎓 Aspiring developer | Lifelong learner | Code enthusiast
     Always eager to learn new things and expand my skills
 
-📚CURRENTLY LEARNING
+📚CURRENTLY LEARNING:
    Currently learning the fundamentals of HTML, CSS, Machine Learning and JavaScript to build my foundation in web development.
 
-🔍 EXPLORING RESOURCES
+🔍 EXPLORING RESOURCES:
     I'm actively seeking out tutorials, online courses, and coding communities to enhance my learning experience.
 
-🚀 BUILDING PROJECTS
+🚀 BUILDING PROJECTS:
   I'm excited to apply what I learn by working on personal projects and experimenting with different ideas.
 
-🌟CELEBRATING VICTORIES
+🌟 CELEBRATING VICTORIES:
   I celebrate every milestone, no matter how small, to stay motivated and encouraged on this learning path.
+
+📧 CONTACT ME:
+   Drop me a message here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/sivani-batchu-859217289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)!
